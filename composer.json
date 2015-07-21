@@ -1,0 +1,8 @@
+{
+    "name": "dotkernel/dotkernel",
+    "description": "Dotkernel PHP Application Framework",
+    "require": {
+        "php": ">=5.5.0",
+        "zendframework/zendframework1": "1.12.*"
+    }
+}
